@@ -1,0 +1,171 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Personal Project</title>
+</head>
+<body>
+<h2>LESSON 1 - Consonants</h2>
+<p style="font-size: 1.35em;">Consonants are a key part of any language, and Ukrainian is not exempt from this. Although there may be a few confusing characters, they're very easy to grasp and tend to be straightforward.</p>
+<p style="font-size: 1.35em;">&nbsp;</p>
+<table class="editorDemoTable" style="border-color: #000000; background-color: #ffffff;">
+<tbody>
+<tr>
+<td><strong>Uppercase</strong></td>
+<td><strong>Lowercase</strong></td>
+<td><strong>Pronunciation</strong></td>
+</tr>
+<tr>
+<td>Б</td>
+<td>б</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\b.mp3
+" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\b.mp3
+"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>В</td>
+<td>в</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\v.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\v.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>Г</td>
+<td>г</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\h.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\h.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>Ґ</td>
+<td>ґ</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\g.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\g.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>Д</td>
+<td>д</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\d.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\d.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>Ж</td>
+<td>ж</td>
+<td>
+<figure><audio src="/C:\Users\gruff\Desktop\sounds\zh.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\zh.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>З</td>
+<td>з</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\z.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\z.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>К</td>
+<td>к</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\k.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\k.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>Л</td>
+<td>л</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\l.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\l.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>М</td>
+<td>м</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\m.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\m.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>Н</td>
+<td>н</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\n.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\n.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>П</td>
+<td>п</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\p.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\p.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>P</td>
+<td>p</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\r.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\r.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>C</td>
+<td>c</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\s.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\s.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>Т</td>
+<td>т</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\t.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\t.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>Ф</td>
+<td>ф</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\f.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\f.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>Х</td>
+<td>х</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\kh.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\kh.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>Ц</td>
+<td>ц</td>
+<td>
+<figure><audio src="/C:\Users\gruff\Desktop\sounds\ts.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\ts.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>Ч</td>
+<td>ч</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\ch.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\ch.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>Ш</td>
+<td>ш</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\sh.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\sh.mp3"> Download audio </a></figure>
+</td>
+</tr>
+<tr>
+<td>Щ</td>
+<td>щ</td>
+<td>
+<figure><audio src="C:\Users\gruff\Desktop\sounds\shch.mp3" controls="controls"></audio> <a href="C:\Users\gruff\Desktop\sounds\shch.mp3"> Download audio </a></figure>
+</td>
+</tr>
+</tbody>
+</table>
+
+</body>
+</html>
